@@ -93,10 +93,10 @@ printf("%c", 65 + (value % 26));
 }
 printf("\n"); // New line after output
 }
+```
+## OUTPUT:
 
-## OUTPUT
-
-![Screenshot 2025-05-23 085509](https://github.com/user-attachments/assets/b5018b8a-1c5a-4344-adf4-0a3068449cfb)
+![Screenshot 2025-05-23 085509](https://github.com/user-attachments/assets/3ba138c8-6be8-4bbd-abbb-d38c97b6ccd6)
 
 
 ## RESULT
